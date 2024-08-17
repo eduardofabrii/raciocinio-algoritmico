@@ -1,0 +1,1 @@
+# 10. Crie um programa que leia duas matrizes de ordem n (números inteiros) e realize a soma entre elas, armazenando o resultado em uma terceira matriz. Em seguida, exiba a matriz resultante.
